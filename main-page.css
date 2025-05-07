@@ -4,3 +4,9 @@ body{
 p{
     color: whitesmoke;
 }
+.a1{
+    width: 128px;
+    height: 128px;
+    border:#444444;
+    border-style: solid;
+}
