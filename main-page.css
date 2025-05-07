@@ -5,8 +5,9 @@ p{
     color: whitesmoke;
 }
 .a1{
-    width: 128px;
-    height: 128px;
+    width: 256px; /*img ratio is 4:3*/
+    height: 192px;
     border:#444444;
     border-style: solid;
+    border-width: 8px;
 }
